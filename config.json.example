@@ -1,0 +1,10 @@
+{
+    "steam_path": "C:/Program Files (x86)/Steam/",
+    "create_userdata_folders": true,
+
+    "login": "",
+    "password": "",
+    "shared_secret": "",
+
+    "display_format": "bot - $id$"
+}
